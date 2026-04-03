@@ -3,4 +3,4 @@
 - Html
 - CSS
 
-## Демо: https://anna-aleksandrovna.ru/animated-form-border/
+## Демо: https://hanna-alex.github.io/animated-form-border/
